@@ -1,0 +1,215 @@
+epoca,liga,equipa,classificacao
+2018,Bundesliga,Bayern,1
+2018,Bundesliga,Schalde,2
+2018,Bundesliga,Hoffenheim,3
+2018,Bundesliga,Dortmund,4
+2018,Bundesliga,Leverkusen,5
+2018,Bundesliga,RB Leipzig,6
+2018,Bundesliga,Stuttgart,7
+2018,Bundesliga,Frankfurt,8
+2018,Bundesliga,Monchengladbach,9
+2018,Bundesliga,Hertha,10
+2018,Bundesliga,Bremen,11
+2018,Bundesliga,Augsburg,12
+2018,Bundesliga,Hannover,13
+2018,Bundesliga,Mainz,14
+2018,Bundesliga,Freiburg,15
+2018,Bundesliga,Wolfsburg,16
+2018,Bundesliga,Hamburger SV,17
+2018,Bundesliga,FC Koin,18
+2019,Bundesliga,Bayern,1
+2019,Bundesliga,Dortmund,2
+2019,Bundesliga,RB Leipzig,3
+2019,Bundesliga,Leverkusen,4
+2019,Bundesliga,Monchengladbach,5
+2019,Bundesliga,Wolfsburg,6
+2019,Bundesliga,Frankfurt,7
+2019,Bundesliga,Bremen,8
+2019,Bundesliga,Hoffenheim,9
+2019,Bundesliga,Dusseldorf,10
+2019,Bundesliga,Hertha,11
+2019,Bundesliga,Mainz,12
+2019,Bundesliga,Freiburg,13
+2019,Bundesliga,Schalke,14
+2019,Bundesliga,Augsburg,15
+2019,Bundesliga,Stuttgart,16
+2019,Bundesliga,Hannover,17
+2019,Bundesliga,Nurnberg,18
+2020,Bundesliga,Bayern,1
+2020,Bundesliga,Dortmund,2
+2020,Bundesliga,RB Leipzig,3
+2020,Bundesliga,Monchengladbach,4
+2020,Bundesliga,Leverkusen,5
+2020,Bundesliga,Hoffenheim,6
+2020,Bundesliga,Wolfsburg,7
+2020,Bundesliga,Freiburg,8
+2020,Bundesliga,Frankfurt,9
+2020,Bundesliga,Hertha,10
+2020,Bundesliga,Bremen,11
+2020,Bundesliga,Augsburg,12
+2020,Bundesliga,Hannover,13
+2020,Bundesliga,Mainz,14
+2020,Bundesliga,Schalke,15
+2020,Bundesliga,Stuttgart,16
+2020,Bundesliga,Hamburger SV,17
+2020,Bundesliga,FC Koin,18
+2018,La Liga,Barcelona,1
+2018,La Liga,Atlético Madrid,2
+2018,La Liga,Real Madrid,3
+2018,La Liga,Valencia,4
+2018,La Liga,Villarreal,5
+2018,La Liga,Betis,6
+2018,La Liga,Sevilla,7
+2018,La Liga,Getafe,8
+2018,La Liga,Eibar,9
+2018,La Liga,Girona,10
+2018,La Liga,Espanyol,11
+2018,La Liga,Real Sociedad,12
+2018,La Liga,Celta Vigo,13
+2018,La Liga,Alavés,14
+2018,La Liga,Levante,15
+2018,La Liga,Athletic Club,16
+2018,La Liga,Leganes,17
+2018,La Liga,La Coruña,18
+2018,La Liga,Las Palmas,19
+2018,La Liga,Malaga,20
+2020,La Liga,Real Madrid,1
+2020,La Liga,Barcelona,2
+2020,La Liga,Atlético Madrid,3
+2020,La Liga,Sevilla,4
+2020,La Liga,Villarreal,5
+2020,La Liga,Real Sociedad,6
+2020,La Liga,Granada,7
+2020,La Liga,Getafe,8
+2020,La Liga,Valencia,9
+2020,La Liga,Osasuna,10
+2020,La Liga,Athletic Club,11
+2020,La Liga,Levante,12
+2020,La Liga,Valladolid,13
+2020,La Liga,Eibar,14
+2020,La Liga,Betis,15
+2020,La Liga,Alavés,16
+2020,La Liga,Celta Vigo,17
+2020,La Liga,Leganes,18
+2020,La Liga,Mallorca,19
+2020,La Liga,Espanyol,20
+2018,Ligue,Paris S-G,1
+2018,Ligue,Monaco,2
+2018,Ligue,Lyon,3
+2018,Ligue,Marseille,4
+2018,Ligue,Rennes,5
+2018,Ligue,Bordeaux,6
+2018,Ligue,Saint-Étienne,7
+2018,Ligue,Nice,8
+2018,Ligue,Nantes,9
+2018,Ligue,Montpellier,10
+2018,Ligue,Dijon,11
+2018,Ligue,Guingamp,12
+2018,Ligue,Amiens,13
+2018,Ligue,Angers,14
+2018,Ligue,Strasbourg,15
+2018,Ligue,Caen,16
+2018,Ligue,Lille,17
+2018,Ligue,Toulouse,18
+2018,Ligue,Troyes,19
+2018,Ligue,Metz,20
+2020,Ligue,Paris S-G,1
+2020,Ligue,Marseille,2
+2020,Ligue,Rennes,3
+2020,Ligue,Lille,4
+2020,Ligue,Nice,5
+2020,Ligue,Reims,6
+2020,Ligue,Lyon,7
+2020,Ligue,Montpellier,8
+2020,Ligue,Monaco,9
+2020,Ligue,Strasbourg,10
+2020,Ligue,Angers,11
+2020,Ligue,Bordeaux,12
+2020,Ligue,Nantes,13
+2020,Ligue,Brest,14
+2020,Ligue,Metz,15
+2020,Ligue,Dijon,16
+2020,Ligue,Saint-Étienne,17
+2020,Ligue,Nimes,18
+2020,Ligue,Amiens,19
+2020,Ligue,Toulouse,20
+2018,Premier League,Manchester City,1
+2018,Premier League,Manchester Utd,2
+2018,Premier League,Tottenham,3
+2018,Premier League,Liverpool,4
+2018,Premier League,Chelsea,5
+2018,Premier League,Arsenal,6
+2018,Premier League,Burnley,7
+2018,Premier League,Everton,8
+2018,Premier League,Leicester,9
+2018,Premier League,Newcastle,10
+2018,Premier League,Crystal Palace,11
+2018,Premier League,Bournemouth,12
+2018,Premier League,West Ham,13
+2018,Premier League,Watford,14
+2018,Premier League,Brighton,15
+2018,Premier League,Huddersfield,16
+2018,Premier League,Southhampton,17
+2018,Premier League,Swansea,18
+2018,Premier League,Stoke,19
+2018,Premier League,West Brom,20
+2020,Premier League,Liverpool,1
+2020,Premier League,Manchester City,2
+2020,Premier League,Manchester Utd,3
+2020,Premier League,Chelsea,4
+2020,Premier League,Leicester,5
+2020,Premier League,Tottenham,6
+2020,Premier League,Wolves,7
+2020,Premier League,Arsenal,8
+2020,Premier League,Sheffield Utd,9
+2020,Premier League,Burnley,10
+2020,Premier League,Southampton,11
+2020,Premier League,Everton,12
+2020,Premier League,Newcastle,13
+2020,Premier League,Crystal Palace,14
+2020,Premier League,Brighton,15
+2020,Premier League,West Ham,16
+2020,Premier League,Aston Villa,17
+2020,Premier League,Bournemouth,18
+2020,Premier League,Watford,19
+2020,Premier League,Norwich,20
+2018,Serie A,Juventus,1
+2018,Serie A,Napoli,2
+2018,Serie A,Roma,3
+2018,Serie A,Inter,4
+2018,Serie A,Lazio,5
+2018,Serie A,Milan,6
+2018,Serie A,Atalanta,7
+2018,Serie A,Fiorentina,8
+2018,Serie A,Torino,9
+2018,Serie A,Sampdoria,10
+2018,Serie A,Sassuolo,11
+2018,Serie A,Genoa,12
+2018,Serie A,Chievo,13
+2018,Serie A,Udinese,14
+2018,Serie A,Bologna,15
+2018,Serie A,Cagliari,16
+2018,Serie A,Spal,17
+2018,Serie A,Crotone,18
+2018,Serie A,Verona,19
+2018,Serie A,Benevento,20
+2020,Serie A,Juventus,1
+2020,Serie A,Inter,2
+2020,Serie A,Atalanta,3
+2020,Serie A,Lazio,4
+2020,Serie A,Roma,5
+2020,Serie A,Milan,6
+2020,Serie A,Napoli,7
+2020,Serie A,Sassuolo,8
+2020,Serie A,Verona,9
+2020,Serie A,Fiorentina,10
+2020,Serie A,Parma,11
+2020,Serie A,Bologna,12
+2020,Serie A,Udinese,13
+2020,Serie A,Cagliari,14
+2020,Serie A,Sampdoria,15
+2020,Serie A,Torino,16
+2020,Serie A,Genoa,17
+2020,Serie A,Lecce,18
+2020,Serie A,Brescia,19
+2020,Serie A,Spal,20
