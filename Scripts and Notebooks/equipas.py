@@ -245,4 +245,4 @@ df_2020 = pd.DataFrame({'epoca': epoca_2020, 'liga': liga1, 'equipa': equipas_20
 df = pd.concat([df, df_2020]) 
 
 
-df.to_csv('bundesliga1718.csv', index=False)
+df.to_csv('classEquipas.csv', index=False)
