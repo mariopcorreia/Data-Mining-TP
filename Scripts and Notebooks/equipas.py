@@ -14,10 +14,6 @@ dados = {'epoca': epoca, 'liga': liga, 'equipa': equipas, 'classificacao': class
 # Criar o DataFrame a partir do dicionário
 df = pd.DataFrame(dados)
 
-# Salvar o DataFrame em um arquivo CSV
-df.to_csv('bundesliga1718.csv', index=False)
-
-df = pd.read_csv('bundesliga1718.csv')
 
 epoca_2019 = [2019] * len(df)
 equipa_2019 = ['Bayern', 'Dortmund', 'RB Leipzig', 'Leverkusen', 'Monchengladbach', 'Wolfsburg', 'Frankfurt',  'Bremen', 'Hoffenheim', 'Dusseldorf', 'Hertha', 'Mainz', 'Freiburg', 'Schalke','Augsburg','Stuttgart', 'Hannover', 'Nurnberg']
@@ -37,7 +33,6 @@ df_2020 = pd.DataFrame({'epoca': epoca_2020, 'liga': liga, 'equipa': equipa_2020
 df = pd.concat([df, df_2020]) 
 
 
-df.to_csv('bundesliga1718.csv', index=False)
 
 
 # La liga
@@ -63,7 +58,7 @@ df = pd.concat([df, df3])
 df.to_csv('bundesliga1718.csv', index=False)
 
 
-df4 = pd.read_csv('bundesliga1718.csv')
+
 
 epoca_2019 = [2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019]
 equipas_2019 = ['Barcelona', 'Atlético Madrid', 'Real Madrid', 'Valencia', 'Getafe', 'Sevilla', 'Espanyol','Athletic Club', 'Real Sociedad',  'Betis',  'Alavés', 'Eibar',  'Leganes', 'Villareal', 'Levante', 'Valladolid', 'Celta Vigo' , 'Girona', 'Huesca', 'Rayo Vallecano']
@@ -73,10 +68,6 @@ classificacao_2019 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17,
 df_2019 = pd.DataFrame({'epoca': epoca_2019, 'liga': liga1, 'equipa': equipas_2019, 'classificacao': classificacao_2019})
 df4 = pd.concat([df, df_2019])
 
-
-
-
-df4.to_csv('bundesliga1718.csv', index=False)
 
 
 
@@ -90,8 +81,6 @@ df_2020 = pd.DataFrame({'epoca': epoca_2020, 'liga': liga1, 'equipa': equipas_20
 
 df = pd.concat([df, df_2020]) 
 
-
-df.to_csv('bundesliga1718.csv', index=False)
 
 
 # Ligue 
@@ -115,7 +104,7 @@ df3 = pd.DataFrame(dados2)
 df = pd.concat([df, df3]) 
 
 
-df.to_csv('bundesliga1718.csv', index=False)
+
 
 
 epoca_2019 = [2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019]
@@ -132,7 +121,6 @@ df4 = pd.concat([df, df_2019])
 
 
 
-df4.to_csv('bundesliga1718.csv', index=False)
 
 epoca_2020 = [2020, 2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020]
 classificacao_2020 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,19,20]
@@ -146,7 +134,6 @@ df_2020 = pd.DataFrame({'epoca': epoca_2020, 'liga': liga1, 'equipa': equipas_20
 df = pd.concat([df, df_2020]) 
 
 
-df.to_csv('bundesliga1718.csv', index=False)
 
 # Premier League
 
@@ -162,13 +149,13 @@ classificacao1 = [1, 2, 3, 4, 5, 6, 7, 8,9,10,11,12,13,14,15,16,17,18, 19,20]
 dados2 = {'epoca': epoca1, 'liga': liga1, 'equipa': equipas1, 'classificacao': classificacao1}
 
 
-# Criar o DataFrame a partir do dicionário
+
 df3 = pd.DataFrame(dados2)
 
 df = pd.concat([df, df3]) 
 
 
-df.to_csv('bundesliga1718.csv', index=False)
+
 
 epoca_2019 = [2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019]
 equipas1 =['Manchester City', 'Liverpool', 'Chelsea', 'Tottenham', 'Arsenal', 'Manchester Utd', 'Wolves', 'Everton', 'Leicester',  'West Ham', 'Watford', 'Crystal Palace', 'Newcastle',  'Bournemouth', 'Burnley', 'Southhampton', 'Brighton', 'Cardiff', 'Fulham' , 'Huddersfield']
@@ -181,7 +168,7 @@ print(len(classificacao_2019))
 df_2019 = pd.DataFrame({'epoca': epoca_2019, 'liga': liga1, 'equipa': equipas1, 'classificacao': classificacao_2019})
 df4 = pd.concat([df, df_2019])
 
-df4.to_csv('bundesliga1718.csv', index=False)
+
 
 epoca_2020 = [2020, 2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020]
 classificacao_2020 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,19,20]
@@ -195,7 +182,7 @@ df_2020 = pd.DataFrame({'epoca': epoca_2020, 'liga': liga1, 'equipa': equipas_20
 df = pd.concat([df, df_2020]) 
 
 
-df.to_csv('bundesliga1718.csv', index=False)
+
 
 # Serie A
 
@@ -217,7 +204,7 @@ df3 = pd.DataFrame(dados2)
 df = pd.concat([df, df3]) 
 
 
-df.to_csv('bundesliga1718.csv', index=False)
+
 
 epoca_2019 = [2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019,2019]
 equipas1 =['Juventus', 'Napoli', 'Atalanta', 'Inter', 'Milan', 'Roma', 'Torino', 'Lazio',  'Sampdoria', 'Bologna', 'Sassuolo', 'Udinese', 'Spal', 'Parma', 'Cagliari', 'Fiorentina', 'Genoa', 'Empoli', 'Frosinone', 'Chievo']
@@ -231,7 +218,7 @@ print(len(classificacao_2019))
 df_2019 = pd.DataFrame({'epoca': epoca_2019, 'liga': liga1, 'equipa': equipas1, 'classificacao': classificacao_2019})
 df4 = pd.concat([df, df_2019])
 
-df4.to_csv('bundesliga1718.csv', index=False)
+
 
 epoca_2020 = [2020, 2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020,2020]
 classificacao_2020 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,19,20]
